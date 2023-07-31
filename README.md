@@ -56,7 +56,7 @@ Contains partners logos.
 COntains the meeting logo and the copyright
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo  - click [capstone_project](https://mpdaddy.github.io/capstone_project/)
+### Live Demo  - click [capstone_project]()
 
 ## 💻 Getting Started <a name="getting-started"></a>
 Bellow is how you may want to use this project
