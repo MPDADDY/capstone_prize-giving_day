@@ -1,9 +1,9 @@
-# capstone_project
+# TriumphTribute
 Assessment-project
 <a name="readme-top"></a>
 <div align="center">
   
-  <h3><b>capstone_project</b></h3>
+  <h3><b>TriumphTribute</b></h3>
 
 </div>
 
@@ -33,11 +33,11 @@ Assessment-project
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [capstone_project] <a name="Assessment project for the portal module"></a>
+# 📖 [TriumphTribute] <a name="Assessment project for the portal module"></a>
 
 >This is an assessment project for all of the frontend lessons in the first module.
 
-**[capstone_project]**  .
+**[TriumphTribute]**  .
 
 ## 🛠 Built With <a name="HTML/CSS"></a>
 
@@ -56,7 +56,7 @@ Contains partners logos.
 COntains the meeting logo and the copyright
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo  - click [capstone_project]()
+### Live Demo  - click [TriumphTribute]()
 
 ## 💻 Getting Started <a name="getting-started"></a>
 Bellow is how you may want to use this project
@@ -106,7 +106,7 @@ Example command:
 
 ### Deployment
 
-- click [TriumphTribute](https://mpdaddy.github.io/capstone_project/) for the deployed site.
+- click [TriumphTribute](https://mpdaddy.github.io/capstone_prize-giving_day/) for the deployed site.
 
 ### Original design for the project
 
