@@ -56,7 +56,7 @@ Contains partners logos.
 COntains the meeting logo and the copyright
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo  - click [TriumphTribute]()
+### Live Demo  - click [TriumphTribute](https://mpdaddy.github.io/capstone_prize-giving_day/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 Bellow is how you may want to use this project
@@ -82,7 +82,7 @@ Example commands:
 
 Install this project by: 
 cloning it to your local machine.
-using the command: [git clone] and pasting https://github.com/MPDADDY/capstone_project link.
+using the command: [git clone] and pasting https://github.com/MPDADDY/capstone_prize-giving_day.git link.
 
 
 Example command:
