@@ -677,10 +677,10 @@ h1 {
 
   .aboutfooter_dark {
     background-color: var(--dark-footer);
-    color: var(--white);
+    /* color: var(--white); */
   }
 
-  .white {
+  .about_footer_color {
     color: var(--white) !important;
   }
 }
