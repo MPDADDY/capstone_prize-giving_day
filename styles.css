@@ -193,6 +193,7 @@ h1 {
 
 /* main program */
 .main-program {
+  background-image: url(./images/mawingu.webp);
   background-color: #282b32;
   padding: 0.8rem;
 }
